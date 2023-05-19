@@ -1,6 +1,7 @@
 # EDA-on-CAR-Dekho-dataset
-This is supervised data set of used car data taken from car dekho web sit.We are going to perform exploratory data alalysis on it and find out the various insite.
-Shape of dataset is - Rows 206 and Columns -26
+This is supervised data set of used car data taken from car dekho web sit.We are going to perform exploratory data alalysis on it and find out the various insights.
+Shape of dataset is - Rows 4340 and Columns -8
+
 Data set contains following columns will check one by one 
 1. Name - Manufacturer Name & car Model name - text data 
 2. year	- Year in which the Car is first Buy - Date 
